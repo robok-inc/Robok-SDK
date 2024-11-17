@@ -1,6 +1,6 @@
 [
-   {
-      "className": "GameScreen",
-      "classPackageName": "org.robok.game.screen.GameScreen"
-   }
+  {
+    "className": "GameScreen",
+    "classPackageName": "org.robok.game.screen.GameScreen"
+  }
 ]
