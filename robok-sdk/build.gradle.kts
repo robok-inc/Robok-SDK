@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-l  namespace = "org.robok"
+  namespace = "org.robok"
   compileSdk = 35
   
   defaultConfig {
